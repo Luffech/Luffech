@@ -6,7 +6,7 @@
 
 # ☕🐾 Bem-vindo(a) ao meu cantinho no GitHub!
 
-Olá! Eu sou o **Luiz Fernando Francedino Chagas**, mas por aqui pode me chamar de **Luffech**.  
+Olá! Eu sou o **Luiz Fernando Francedino**, mas por aqui pode me chamar de **Luffech**.  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, café forte e gatos curiosos!  
 Neste espaço compartilho minha jornada como dev em construção — cheia de projetos, aprendizados e muito código com aroma de café.
 
