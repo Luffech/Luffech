@@ -1,10 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luffech/Luffech/main/README-assets/cat-coffee.png" alt="Café e Gato" width="300"/>
+  <img src="README-assets/gatas-com-cafe.png" alt="Gatas com café" width="600"/>
 </p>
+
+---
 
 # ☕🐾 Bem-vindo(a) ao meu cantinho no GitHub!
 
-Olá! Eu sou o **Luiz Fernando Francedino**, mas por aqui pode me chamar de **Luffech**.  
+Olá! Eu sou o **Luiz Fernando Francedino Chagas**, mas por aqui pode me chamar de **Luffech**.  
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia, café forte e gatos curiosos!  
 Neste espaço compartilho minha jornada como dev em construção — cheia de projetos, aprendizados e muito código com aroma de café.
 
@@ -12,10 +14,10 @@ Neste espaço compartilho minha jornada como dev em construção — cheia de pr
 
 ## 🧰 Minhas Habilidades
 
-- 🐍 Python, ☕ Java, ✨ JavaScript
-- 🎨 HTML, CSS e React
-- 🛠️ APIs RESTful, SQL e Banco de Dados (MySQL, PostgreSQL)
-- 🔧 Ferramentas: Git, GitHub, VS Code, Postman
+- 🐍 Python, ☕ Java, ✨ JavaScript  
+- 🎨 HTML, CSS e React  
+- 🛠️ APIs RESTful, SQL e Banco de Dados (MySQL, PostgreSQL)  
+- 🔧 Ferramentas: Git, GitHub, VS Code, Postman  
 
 ---
 
